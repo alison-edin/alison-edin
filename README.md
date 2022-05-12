@@ -1,8 +1,10 @@
 ### Hi there 👋 I'm Alison.
 
-- :woman_office_worker: work in the Scottish Public Sector
+- :woman_office_worker: data analysts in the NHS
+- 😄 Pronouns: she / her
 - :desktop_computer: data analysis
 - :bar_chart: main coding interest lies with R, specifically for data analysis and dashboards 
+- 🌱 currently learning SQL and Tableau
 - :woman_student: interested in ongoing learning: own-initiative enrollment in courses to skill up
 - :card_index_dividers: experienced in running projects
 - :juggling_person: multi-tasker
