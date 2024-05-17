@@ -1,8 +1,7 @@
 ### Hello 👋 I'm Alison.
 
-- :woman_office_worker: data analyst in the NHS
+- :woman_office_worker: data analyst
 - :bar_chart: main coding interest lies with R, specifically for data analysis and dashboards 
-- :green_book: currently learning SQL and Tableau
 - :woman_student: interested in ongoing learning: own-initiative enrollment in courses to skill up
 - :card_index_dividers: experienced in running projects
 - :juggling_person: multi-tasker
